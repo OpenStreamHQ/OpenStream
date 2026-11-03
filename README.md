@@ -54,6 +54,6 @@ openstream/
 We are building this using modern AI-assisted workflows. If you are a "vibe coder" who loves gluing together complex protocols rapidly using AI tools, we want you! 
 
 ### Next Steps
-1. ⭐ **Star the repo!**  Getting enough stars unlocks free GitHub Copilot tiers for maintainer.
+1. ⭐ **Star the repo!**  Getting enough stars unlocks free GitHub Copilot tiers for maintainers.
 2. 🔔 [**Subscribe to our Launch Announcement**](https://github.com/OpenStreamHQ/OpenStream/discussions/3) to get pinged the moment we drop the first usable build.
 3. 💬 **Have an idea? [Start a Discussion](https://github.com/OpenStreamHQ/OpenStream/discussions).** 
